@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/sounds/yamaha">
+        <file>qt_piano/yamaha/A.wav</file>
+        <file>qt_piano/yamaha/C.wav</file>
+        <file>qt_piano/yamaha/C2.wav</file>
+        <file>qt_piano/yamaha/D.wav</file>
+        <file>qt_piano/yamaha/E.wav</file>
+        <file>qt_piano/yamaha/F.wav</file>
+        <file>qt_piano/yamaha/G.wav</file>
+        <file>qt_piano/yamaha/H.wav</file>
+        <file>qt_piano/yamaha/Piano.jpg</file>
+        <file>qt_piano/yamaha/25711.svg</file>
+    </qresource>
+</RCC>
